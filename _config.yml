@@ -1,7 +1,7 @@
 # Site settings
 course_name: Intermediate Microeconomic Theory
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_description: "In this course we will develop methods of microeconomic analysis beyond the principles level. Major emphasis is placed on consumer and producer behavior, market failurs and strategic interaction (game theory)."
+course_semester: "Fall 2021"
 
 baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
 url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
