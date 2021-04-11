@@ -9,8 +9,8 @@ permalink: /syllabus/
 ## Intermediate Microeconomics
 Economics 304, Fall 2021
 
-\ Professor:	Dr. Tim Komarek
-\		2047 Constant Hall
+Professor:	Dr. Tim Komarek \\
+		2047 Constant Hall \\
 		Department Economics
 		Old Dominion University
 		Norfolk, VA 23529
