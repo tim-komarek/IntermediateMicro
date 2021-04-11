@@ -55,7 +55,7 @@ C- 72-70 \\
 D+ 69-67 \\
 D  66-63 \\
 D- 62-60 \\
-F  59-0 \\
+F  59-0
 
 ## Attendance
 This is an online / virtual course and attendance is not explicitly a part of the course grade. However, consistent attendance and engagement is important for performing well in the course. We’ll do our best, given the online format, to replicate discussions and an interactive class environment. 
