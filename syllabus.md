@@ -6,7 +6,7 @@ permalink: /syllabus/
 
 {% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
 
-##Intermediate Microeconomics
+## Intermediate Microeconomics
 Economics 304, Fall 2021
 
 Professor:	Dr. Tim Komarek
@@ -18,7 +18,7 @@ Website:	http://www.timkomarek.com
 Email:		tkomarek\@odu.edu, please put Econ 304 in the subject line 	
 Phone: 	(757) 447-7209 (call or text)
 
-#Prerequisites
+# Prerequisites
 Economics 202 and Math 200 or equivalent. Students who do not meet prerequisites or co requisite will be administratively withdrawn.
 
 ## Book
