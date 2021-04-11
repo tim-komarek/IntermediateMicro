@@ -16,7 +16,7 @@ Professor:	Dr. Tim Komarek \\
 		Norfolk, VA 23529 \\
 Website:	[http://www.timkomarek.com](http://www.timkomarek.com) \\
 Email:		tkomarek@odu.edu, please put Econ 304 in the subject line \\	
-Phone: 	(757) 447-7209 (call or text)
+Phone: 	(757) 447-7209 (call or text) \\
 
 ## Prerequisites
 Economics 202 and Math 200 or equivalent. Students who do not meet prerequisites or co requisite will be administratively withdrawn.
