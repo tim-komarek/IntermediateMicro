@@ -9,13 +9,13 @@ permalink: /syllabus/
 ## Intermediate Microeconomics
 Economics 304, Fall 2021
 
-Professor:	Dr. Tim Komarek
-		2047 Constant Hall
+\ Professor:	Dr. Tim Komarek
+\		2047 Constant Hall
 		Department Economics
 		Old Dominion University
 		Norfolk, VA 23529
 Website:	http://www.timkomarek.com
-Email:		tkomarek\@odu.edu, please put Econ 304 in the subject line 	
+Email:		tkomarek@odu.edu, please put Econ 304 in the subject line 	
 Phone: 	(757) 447-7209 (call or text)
 
 # Prerequisites
