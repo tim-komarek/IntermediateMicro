@@ -14,12 +14,15 @@ Professor:	Dr. Tim Komarek \\
 		Department Economics \\
 		Old Dominion University \\
 		Norfolk, VA 23529 \\
-Website:	http://www.timkomarek.com \\
+Website:	[http://www.timkomarek.com](http://www.timkomarek.com) \\
 Email:		tkomarek@odu.edu, please put Econ 304 in the subject line \\	
 Phone: 	(757) 447-7209 (call or text)
 
-# Prerequisites
+## Prerequisites
 Economics 202 and Math 200 or equivalent. Students who do not meet prerequisites or co requisite will be administratively withdrawn.
+
+## Textbook
+Goolsbee, Levitt, and Syverson, Microeconomics, Worth Publishers 2013. ISBN -13: 978-1-4641-2356-6 A study guide is available for the textbook. The web site associated with the book is also a good resource.
 
 ## Book
 
