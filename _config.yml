@@ -1,6 +1,6 @@
 # Site settings
 course_name: Intermediate Microeconomic Theory
-course_description: "In this course we will develop methods of microeconomic analysis beyond the principles level. Major emphasis is placed on consumer and producer behavior, market failurs and strategic interaction (game theory)."
+course_description: "In this course we will develop methods of microeconomic analysis beyond the principles level. Major emphasis is placed on consumer and producer behavior, market equilibrium, market failures and strategic interaction (game theory)."
 course_semester: "Spring 2022"
 
 baseurl: "/IntermediateMicro" # the subpath of your site, e.g. /blog/
