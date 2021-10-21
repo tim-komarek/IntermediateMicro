@@ -7,7 +7,7 @@ baseurl: "/IntermediateMicro" # the subpath of your site, e.g. /blog/
 url: "http://tim-komarek.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Old Dominion University"
-schoolurl: www.odu.edu
+schoolurl: "www.odu.edu""
 twitter_username: TMKom 
 
 address: |
