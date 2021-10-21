@@ -7,7 +7,7 @@ permalink: /syllabus/
 {% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
 
 ## Intermediate Microeconomics
-**Economics 304, Fall 2021**
+**Economics 304, Spring 2022**
 
 Professor:	Dr. Tim Komarek \\
 		2047 Constant Hall \\
