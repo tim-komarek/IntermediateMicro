@@ -10,5 +10,5 @@ links:
     - url: https://www.youtube.com/watch?v=NDZdsqbcGTU&t=2740s
       name: video
 ---
-**Suggested Readings:**
+**Readings:**
 - GLS Chapter 1
