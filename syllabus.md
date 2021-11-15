@@ -25,7 +25,7 @@ Economics 202 and Math 200 or equivalent. Students who do not meet prerequisites
 Goolsbee, Levitt, and Syverson, Microeconomics, Worth Publishers 2013. ISBN -13: 978-1-4641-2356-6 A study guide is available for the textbook. The web site associated with the book is also a good resource.
 
 ## Administrative Procedures
-**Homework**, 36% of course grade. There are 8 homework assignments. They will be graded from 0-4 (you can think of this a 0% - 4% of your overall course grade for each homework). 
+**Homework**, 36% of course grade. There are 9 homework assignments. They will be graded from 0-4 (you can think of this a 0% - 4% of your overall course grade for each homework). 
 
 It is due before the beginning of the class period. You will need to scan it with your phone using the Genius Scan App and email it to me. We will go over the assignment during the class period it is due, thus no late homework assignments will be accepted or make-ups offered.  You can send (before the class it is due) and still get full credit, even if you are not on the Zoom where we’ll go over it. 
 
