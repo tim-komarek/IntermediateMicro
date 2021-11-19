@@ -106,6 +106,3 @@ The Office of Educational Accessibility is located at 1021 Student Success Cente
 ODU’s Office of Counseling Services (OCS) is a university agency with a competent, diverse and multidisciplinary professional staff. We are committed to supporting the emotional well- being, social development, and academic progress of all students at Old Dominion University. 
 College life can be a wonderful time of self-discovery, but for many, it is also a time when the awareness of mental health conditions increases. OCS services are available to assist with addressing mental health concerns that a student may be experiencing. You can learn more about the broad range of confidential mental health services available on campus via our website at [http://www.odu.edu/counselingservices](http://www.odu.edu/counselingservices). All services are free to ODU students. 
 
-
-
-
