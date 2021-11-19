@@ -16,8 +16,8 @@ Professor:	Dr. Tim Komarek \\
 		Norfolk, VA 23529 \\
 Website:	[http://www.timkomarek.com](http://www.timkomarek.com) \\
 Email:		tkomarek@odu.edu, please put Econ 304 in the subject line \\
-Phone: 	(757) 447-7209 (call or text)
-Meeting time: This course is fully asynchronous
+Phone: 	(757) 447-7209 (call or text) \\
+Meeting time: This course is fully asynchronous \\
 Virtual Office Hours: Wed 1:00 p.m. – 3:00 p.m. and by Appointment
 
 ## Course Description
