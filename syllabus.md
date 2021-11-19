@@ -6,7 +6,7 @@ permalink: /syllabus/
 
 {% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
 
-## Intermediate Microeconomics [(pdf version of syllabus)](/static_files/presentations/search.pdf)
+## Intermediate Microeconomics [(pdf version of syllabus)](/static_files/admin/304syllabus_spring2022.pdf)
 **Economics 304, Spring 2022**
 
 Professor:	Dr. Tim Komarek \\
