@@ -1,0 +1,14 @@
+---
+type: assignment
+date: 2021-01-10T4:00:00+4:30
+title: 'Writing Assignment #1 - Economic Models'
+hide_from_announcments: true
+pdf: /static_files/assignments/Writing_1.pdf
+attachment: 
+solutions: 
+due_event: 
+    type: due
+    date: 2021-01-16T23:59:00+3:30
+    description: 'Writing Assignment #1 due'
+---
+This writing assignment has you think about using models in economics. In particular, you'll have to think about the incentives of patients and physicians.
