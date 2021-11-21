@@ -83,7 +83,7 @@ F  59-0
 This is an online / virtual course and attendance is not explicitly a part of the course grade. However, consistent attendance and engagement is important for performing well in the course.  
 
 ## Email Communications
-Please use your ODU email address in order to correspond with me via email. I will only respond to ODU email accounts. Please put Econ 304 in the subject line. \\
+Please use your ODU email address in order to correspond with me via email. I will only respond to ODU email accounts. Please put Econ 304 in the subject line. 
 
 When you send me an email, use it as an opportunity to work on your formal written communication skills. Please do your best to compose a well-written and professional message, using complete sentences and correct grammar and punctuation. I might respond simply “Try again” for a poorly structured email. I am happy to answer questions, etc. however, I am interested in practicing professional communication.
 
