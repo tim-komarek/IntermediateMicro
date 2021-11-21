@@ -11,4 +11,4 @@ due_event:
     date: 2021-01-16T23:59:00+3:30
     description: 'Writing Assignment #1 due'
 ---
-This writing assignment has you think about using models in economics. In particular, you'll have to think about the incentives of patients and physicians.
+This writing assignment has you think about using economic models. In particular, you'll have to think about the incentives of patients and physicians.
