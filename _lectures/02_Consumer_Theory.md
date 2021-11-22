@@ -9,6 +9,11 @@ links:
       name: slides 1
     - url: https://www.youtube.com/watch?v=NDZdsqbcGTU&t=2740s
       name: video 1
+   - url: /static_files/presentations/2b_Utility_Preferences.pdf
+      name: slides 1
+    - url: https://www.youtube.com/watch?v=NDZdsqbcGTU&t=2740s
+      name: video 1
+-
 ---
 **Suggested Readings:**
 - GLS: Consumer Behavior
