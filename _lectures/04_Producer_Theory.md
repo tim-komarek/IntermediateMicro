@@ -1,6 +1,7 @@
 ---
 type: lecture
 date: 2022-01-31T8:00:00+4:30
+hide_from_announcments: true
 title: Producer Theory - Production theory and Rosen-Roback model
 tldr: "How do companies decide which combination of inputs to use in production? We'll also look at putting consumer and producer theory together in the Rosen-Roback model to examine how amenities play a key role in Urban Economics "
 thumbnail: /static_files/thumbs/amenity.jpg
