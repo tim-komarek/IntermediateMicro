@@ -13,5 +13,5 @@ links:
 **Suggested Readings:**
 - GLS: Producer Behavior
 
-**Suggested Videos: **
+**Suggested Videos:**
 - [Spatial Equilibrium](https://www.youtube.com/watch?v=Qx394peRdK8)
