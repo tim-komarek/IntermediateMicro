@@ -6,9 +6,9 @@ tldr: "The basic model of consumer theory looks at an individual maximizing util
 thumbnail: /static_files/thumbs/consumer_behavior1.jpg
 links: 
     - url: /static_files/presentations/2a_Constraints.pdf
-      name: slides constraints
+      name: slides 1
     - url: https://www.youtube.com/watch?v=NDZdsqbcGTU&t=2740s
-      name: video
+      name: video 1
 ---
 **Suggested Readings:**
 - GLS: Consumer Behavior
