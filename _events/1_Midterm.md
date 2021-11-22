@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2022-02-07T8:0:0+3:30
+date: 2022-02-07
 description: 'Midterm'
 hide_from_announcments: true
 ---
