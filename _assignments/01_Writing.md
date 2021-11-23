@@ -3,7 +3,7 @@ type: assignment
 date: 2022-01-10T9:00:00+4:30
 title: 'Writing Assignment #1 - Economic Models'
 hide_from_announcments: true
-pdf: /static_files/assignments/Writing_1.pdf
+pdf: /static_files/assignments/Writing_1_Models.pdf
 attachment: 
 solutions: 
 due_event: 
