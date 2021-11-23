@@ -3,7 +3,7 @@ type: lecture
 date: 2022-02-28T8:00:00+4:30
 title: Supply and Demand - Quantity policies
 tldr: "We'll look at how government policies that regulate quantities impact economic welfare and market outcomes."
-thumbnail: /static_files/presentations/crab.jpg
+thumbnail: /static_files/thumbs/crab.jpg
 links: 
     - url: 
       name: slides
