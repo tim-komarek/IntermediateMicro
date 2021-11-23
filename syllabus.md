@@ -106,3 +106,25 @@ The Office of Educational Accessibility is located at 1021 Student Success Cente
 ODU’s Office of Counseling Services (OCS) is a university agency with a competent, diverse and multidisciplinary professional staff. We are committed to supporting the emotional well- being, social development, and academic progress of all students at Old Dominion University. 
 College life can be a wonderful time of self-discovery, but for many, it is also a time when the awareness of mental health conditions increases. OCS services are available to assist with addressing mental health concerns that a student may be experiencing. You can learn more about the broad range of confidential mental health services available on campus via our website at [http://www.odu.edu/counselingservices](http://www.odu.edu/counselingservices). All services are free to ODU students. 
 
+\begin{table}[]
+\begin{tabular}{lllll}
+\hline
+\multicolumn{1}{|l|}{Week of:} & \multicolumn{1}{l|}{Week} & \multicolumn{1}{l|}{Topic}                               & \multicolumn{1}{l|}{Reading: GLS Chapter Title} & \multicolumn{1}{l|}{Assignment/Evaluation}               \\ \hline
+10-Jan                         & 1                         & Tools of Microeconomics                                  & Adventures in Microeconomics                    & Writing 1: Economic Models                               \\
+17-Jan                         & 2                         & Consumer Theory: Constraints, preferences and utility    & Consumer Behavior                               & HW 1: Consumer Choice                                    \\
+24-Jan                         & 3                         & Consumer Theory: Demand, income and substitution effects & Individual and Market Demand                    & HW 2: Individual and Market Demand                       \\
+31-Jan                         & 4                         & Producer Theory and the Rosen-Roback model               & Producer Behavior, Rosen-Roback Model           & HW 3: Production and Rosen-Roback Model                  \\
+7-Feb                          & 5                         & Review and Test: Micro Micro Foundations                 & -                                               & Exam 1                                                   \\
+14-Feb                         & 6                         & Supply and Demand: Basics, shifts, and elasticities      & Supply and Demand                               & HW 4: Supply and Demand Basics                           \\
+21-Feb                         & 7                         & Supply and Demand: Welfare and polices                   & Using Supply and Demand to Analyze Markets      & Writing 2: Social Functions of Prices and Emergent Order \\
+28-Feb                         & 8                         & Supply and Demand: Welfare and polices                   & Using Supply and Demand to Analyze Markets      & HW 5: Policies with Supply and Demand                    \\
+7-Mar                          & 9                         & Spring Break                                             & -                                               & -                                                        \\
+14-Mar                         & 10                        & Externalities and Public Goods                           & Externalities and Public Goods                  & HW 6: Externalities and Public Goods                     \\
+21-Mar                         & 11                        & Test: The Market, Externalities and Public Goods         & -                                               & Exam 2                                                   \\
+28-Mar                         & 12                        & Search and Baysian Reasoning                             & Slides                                          & HW 7: Search and Bayes                                   \\
+4-Apr                          & 13                        & Adverse selection, moral hazard, signaling               & Asymmetric Information                          & HW 8: Asymetric Information                              \\
+11-Apr                         & 14                        & Game Theory                                              & Game Theory                                     & HW 9: Game Theory                                        \\
+18-Apr                         & 15                        & Game Theory and Epilogue                                 & -                                               & Writing 3: Public Choice and Political Economy           \\
+25-Apr                         & 16                        & Cumulative Final Exams                                   &                                                 &                                                         
+\end{tabular}
+\end{table}
