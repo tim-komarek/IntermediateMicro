@@ -1,11 +1,11 @@
 ---
 type: lecture
 date: 2022-02-21T8:00:00+4:30
-title: Supply and Demand: Welfare and policies 1
+title: Supply and Demand: Welfare and pricing policies 
 tldr: "We'll examine how government policies including taxes, subsidies and price controls impact economic welfare and market outcomes "
 thumbnail: /static_files/thumbs/taxes.jpg
 links: 
-    - 
+    - url:
       name: slides
     - url: https://www.youtube.com/watch?v=NDZdsqbcGTU&t=2740s
       name: video
