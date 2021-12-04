@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2022-04-11T8:00:00+4:30
-title: Public Choice - Strategic and dynamic
+date: 2022-04-18T8:00:00+4:30
+title: Public Choice - Economic analysis of government
 tldr: "We'll use the tools of economics to analyze the government and politics."
 thumbnail: /static_files/thumbs/game_theory2.jpg
 links: 
