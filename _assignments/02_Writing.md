@@ -3,7 +3,7 @@ type: assignment
 date: 2022-02-21T9:00:00+4:30
 title: 'Writing Assignment #2 - Matching Markets'
 hide_from_announcments: true
-pdf: /static_files/assignments/Writing_2_Matching_Markets.pdf
+pdf: /static_files/assignments/Writing_Matching_Markets.pdf
 attachment: 
 solutions: 
 due_event: 
