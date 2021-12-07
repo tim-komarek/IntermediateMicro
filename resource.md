@@ -7,11 +7,15 @@ permalink: /resources/
 ## How to make a pdf (for submitting assignments)
 There are many good apps out there that will allow you to take photos and convert them to PDFs. The apps do a great job of optimizing your photos for PDFs (using your computer to convert will often result in very large PDF file sizes!). Here are a few apps you can use: 
 
-Genius Scan \\
-Turboscan \\ 
-Image to PDF Converter Free \\ 
-PDF Converter Pro \\ 
-Simple Scan \\
+Genius Scan
+
+Turboscan
+
+Image to PDF Converter Free
+
+PDF Converter Pro
+
+Simple Scan
 
 Personally, I use Genius Scan. You can scan multiple pictures (think pages of your homework assignment) and send them all at once. 
 
