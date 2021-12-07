@@ -58,9 +58,9 @@ Finally, I will communicate with you regularly with course updates over ODU emai
 ## Grading Policy:
 A. Final grades will be determined based upon your attendance, performance on assignments, three in-class exams, and a comprehensive final exam using the following weights:
 	
-Problem solving assignments	36% (9*4%) \\
-Writing assignments	12% (3*4%) \\
-Exams 32% (2*16%)	\\	
+Problem solving assignments	36% (9 at 4% each) \\
+Writing assignments	12% (3 at 4% each) \\
+Exams 32% (2 at 16% each)	\\	
 Cumulative final exam	20%	\\		
 Total Possible 100%	\\
 
