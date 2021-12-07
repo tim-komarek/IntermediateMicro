@@ -18,13 +18,13 @@ Website:	[http://www.timkomarek.com](http://www.timkomarek.com) \\
 Email:		tkomarek@odu.edu, please put Econ 304 in the subject line \\
 Phone: 	(757) 447-7209 (call or text) \\
 Meeting time: This course is fully asynchronous \\
-Virtual Office Hours: Wed 1:00 p.m. – 3:00 p.m. and by Appointment
+Virtual Office Hours: Wed 1:00 p.m. – 3:00 p.m. and by Appointment. Details over email
 
 ## Course Description
 In this course we will develop methods of microeconomic analysis beyond the principles level. Major emphasis is placed on consumer and producer behavior, market equilibrium, market failures and strategic interaction (game theory).
 
 ## Prerequisites
-Economics 202 and Math 200 or equivalent. Students who do not meet prerequisites or co requisite will be administratively withdrawn.
+Economics 202. Students who do not meet prerequisites or co requisite will be administratively withdrawn.
 
 ## Textbook
 Goolsbee, Levitt, and Syverson, Microeconomics, Worth Publishers 2013. ISBN -13: 978-1-4641-2356-6 A study guide is available for the textbook. The web site associated with the book is also a good resource.
@@ -40,11 +40,11 @@ Second, we will use the Blackboard online course management system for posting g
 Finally, I will communicate with you regularly with course updates over ODU email. You will also use ODU email to turn in graded course work. 
 
 ## Administrative Procedures
-**Writing Assignments**, 12% of course grade. There are 3 writing assignments this semester. They will be graded from 0-4 (you can think of this a 0% - 4% of your overall course grade for each problem solving homework).
+**Writing Assignments**, 12% of course grade. There are 3 writing assignments this semester. They will be graded from 0-4 (you can think of this a 0% - 4% of your overall course grade for each).
 
 **Problem Solving Assignments**, 36% of course grade. There are 9 problem solving homework assignments. These will often be handwritten with graphs and equations. I expect them to be neat and readable. They will be graded from 0-4 (you can think of this a 0% - 4% of your overall course grade for each problem solving homework). 
 
-**Writing and problem-solving assignments are due each week on Sunday at 11:59pm.**  
+**Writing and problem-solving assignments are due at the end of each week on Sunday at 11:59pm.**  
 
 
 **Exams**, 52% of course grade. There will be a total of three tests. Collectively, these will total 52% of your overall course grade. Two of these exams will be administered during the semester and you will have several days to complete along with a comprehensive final exam at the end of the semester.
@@ -66,21 +66,10 @@ Total Possible 100%	\\
 
 
 B. Grades will be assigned based on the following scale: \\
-A  100-94 \\
-A- 93-90 \\
-B+ 89-87 \\
-B  86-83 \\
-B- 82-80 \\
-C+ 79-77 \\
-C  76-73 \\
-C- 72-70 \\
-D+ 69-67 \\
-D  66-63 \\
-D- 62-60 \\
-F  59-0
+A  100-94, A- 93-90, B+ 89-87, B  86-83, B- 82-80, C+ 79-77, C  76-73, C- 72-70, D+ 69-67, D  66-63, D- 62-60, F  59-0
 
 ## Attendance
-This is an online / virtual course and attendance is not explicitly a part of the course grade. However, consistent attendance and engagement is important for performing well in the course.  
+This is an online / virtual course and attendance is not explicitly a part of the course grade. However, consistent engagement is important for performing well in the course.  
 
 ## Email Communications
 Please use your ODU email address in order to correspond with me via email. I will only respond to ODU email accounts. Please put Econ 304 in the subject line. 
