@@ -10,4 +10,5 @@ By the end of this course, you will:
 
 1. Apply the economic way of thinking to real world issues in writing.
 
+## [Virtual Course Introduction](https://youtu.be/X2UacKCjPE0) 
 
