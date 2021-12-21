@@ -8,7 +8,7 @@ thumbnail: /static_files/thumbs/models.jpg
 links: 
     - url: /static_files/presentations/1_Intro.pdf
       name: slides
-    - url: https://www.youtube.com/watch?v=NDZdsqbcGTU&t=2740s
+    - url: https://youtu.be/X2UacKCjPE0
       name: video
 ---
 **Suggested Readings:**
