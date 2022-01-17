@@ -8,7 +8,7 @@ thumbnail: /static_files/thumbs/consumer_behavior2.jpg
 links: 
     - url: /static_files/presentations/3_Using_Constrained_Optimization.pdf
       name: slides
-    - url: https://www.youtube.com/watch?v=NDZdsqbcGTU&t=2740s
+    - url: https://youtube.com/playlist?list=PLS-2hd7k31n-9guOVfpqIS2JZ6AoxiQpo
       name: video
 ---
 **Suggested Readings:**
