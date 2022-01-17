@@ -8,7 +8,7 @@ thumbnail: /static_files/thumbs/amenity.jpg
 links: 
     - url: /static_files/presentations/4_Producers_Roback.pdf
       name: slides
-    - url: https://www.youtube.com/watch?v=NDZdsqbcGTU&t=2740s
+    - url: https://youtube.com/playlist?list=PLS-2hd7k31n8ZWSrFK6PDAOZB0MNKOOZ2
       name: video
 ---
 **Suggested Readings:**
