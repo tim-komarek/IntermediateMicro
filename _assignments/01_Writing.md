@@ -13,4 +13,4 @@ due_event:
 ---
 This writing assignment has you think about using economic models. In particular, you'll have to think about the incentives of patients and physicians.
 
-##[Discussion of answer](https://youtu.be/xKdVJw4ncLs)
+**[Discussion of answer](https://youtu.be/xKdVJw4ncLs)
