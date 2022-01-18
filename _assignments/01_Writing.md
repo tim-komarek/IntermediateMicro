@@ -6,9 +6,6 @@ hide_from_announcments: true
 pdf: /static_files/assignments/Writing_1_Models.pdf
 attachment: 
 solutions:
-links: 
-  - url: https://youtu.be/xKdVJw4ncLs
-  - name: Solution discussion
 due_event: 
     type: due
     date: 2022-01-16T23:59:00+3:30
@@ -16,4 +13,4 @@ due_event:
 ---
 This writing assignment has you think about using economic models. In particular, you'll have to think about the incentives of patients and physicians.
 
-Discussion / answer can be found at https://youtu.be/xKdVJw4ncLs
+##[Discussion of answer](https://youtu.be/xKdVJw4ncLs)
