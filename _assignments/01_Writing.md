@@ -5,7 +5,10 @@ title: 'Writing Assignment #1 - Economic Models'
 hide_from_announcments: true
 pdf: /static_files/assignments/Writing_1_Models.pdf
 attachment: 
-solutions:  
+solutions:
+links: 
+  - url: https://youtu.be/xKdVJw4ncLs
+  - name: Solution discussion
 due_event: 
     type: due
     date: 2022-01-16T23:59:00+3:30
