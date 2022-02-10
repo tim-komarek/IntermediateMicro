@@ -3,6 +3,8 @@ type: exam
 date: 2022-02-13
 description: 'Midterm'
 hide_from_announcments: false
+pdf: /static_files/assignments/Test1_Spring_2022.docx
+
 ---
 **Topics:**
 1. Tools of Microeconomics
