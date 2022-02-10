@@ -1,8 +1,8 @@
 ---
 type: exam
-date: 2022-02-07
+date: 2022-02-13
 description: 'Midterm'
-hide_from_announcments: true
+hide_from_announcments: false
 ---
 **Topics:**
 1. Tools of Microeconomics
