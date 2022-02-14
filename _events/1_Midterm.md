@@ -2,7 +2,7 @@
 type: exam
 date: 2022-02-13
 description: 'Midterm'
-hide_from_announcments: false
+hide_from_announcments: true
 pdf: /static_files/assignments/Test1_Spring_2022.pdf
 
 ---
