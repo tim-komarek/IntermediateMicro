@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-02-14T8:00:00+4:30
-hide_from_announcments: false
+hide_from_announcments: true
 title: Supply and Demand - Basics
 tldr: "We'll start out looking at the fundamentals of the supply and demand model including shift factors, elasticities, and economic welfare."
 thumbnail: /static_files/thumbs/groceries.jpg
