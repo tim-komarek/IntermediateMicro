@@ -8,6 +8,5 @@ thumbnail: /static_files/thumbs/spring_break.jpg
 links: 
     - url: /static_files/docs/Spring_Break.pdf
       name: Reading
-    - url: 
-      name: 
+ 
 ---
