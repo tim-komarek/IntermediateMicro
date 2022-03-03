@@ -8,8 +8,7 @@ thumbnail: /static_files/thumbs/lighthouse2.jpg
 links: 
     - url: /static_files/presentations/8_Externalities_PublicGoods.pdf
       name: slides
-    - url: https://www.youtube.com/watch?v=NDZdsqbcGTU&t=2740s
-      name: video
+
 ---
 **Suggested Readings:**
 - GLS: Externalities and Public Goods
