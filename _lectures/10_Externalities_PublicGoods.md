@@ -8,6 +8,8 @@ thumbnail: /static_files/thumbs/lighthouse2.jpg
 links: 
     - url: /static_files/presentations/8_Externalities_PublicGoods.pdf
       name: slides
+    - url: https://www.youtube.com/playlist?list=PLS-2hd7k31n_YaJ9kkPhmn3W2x00REXSV
+      name: video
 
 ---
 **Suggested Readings:**
