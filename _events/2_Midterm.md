@@ -1,7 +1,7 @@
 ---
 type: exam
 date: 2022-03-27T23:59+3:30
-description: 'Midterm'
+description: 'Midterm 2'
 hide_from_announcments: false
 ---
 **Topics:**
