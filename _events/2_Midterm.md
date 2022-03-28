@@ -2,7 +2,7 @@
 type: exam
 date: 2022-03-27T23:59+3:30
 description: 'Midterm 2'
-hide_from_announcments: false
+hide_from_announcments: true
 ---
 **Topics:**
 1. Supply and Demand: Basics, shifts, and elasticities
