@@ -10,6 +10,7 @@ links:
       name: slides
     - url: https://www.youtube.com/playlist?list=PLS-2hd7k31n-nyNGOoabB71TygsfpJKgf
       name: video
+      
 ---
 **Suggested Readings:**
 - GLS: Asymmetric Information 
