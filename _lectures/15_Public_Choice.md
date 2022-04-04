@@ -7,7 +7,7 @@ tldr: "We'll use the tools of economics to analyze the government and politics."
 thumbnail: /static_files/thumbs/game_theory2.jpg
 links: 
     - url: 
-      name: slides
+      name: 
     - url: https://www.youtube.com/watch?v=xxmXeLEcs9s&t=110s
       name: video
 ---
