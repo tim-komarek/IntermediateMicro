@@ -8,7 +8,7 @@ thumbnail: /static_files/thumbs/game_theory1.jpg
 links: 
     - url: /static_files/presentations/11_GameTheory.pdf
       name: slides
-    - url: 
+    - url: https://www.youtube.com/playlist?list=PLS-2hd7k31n_LmrXrIx3Ca-8H4NJc07be
       name: video
 ---
 **Suggested Readings:**
