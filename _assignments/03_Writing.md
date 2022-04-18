@@ -2,7 +2,7 @@
 type: assignment
 date: 2022-04-18T9:00:00+4:30
 title: 'Writing Assignment #3 - Public Choice'
-hide_from_announcments: true
+hide_from_announcments: false
 pdf: /static_files/assignments/Writing_Public_Choice.pdf
 attachment: 
 solutions: 
